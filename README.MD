@@ -1,5 +1,8 @@
-live API is Hosted on Render 
+live API is Hosted on Render :
 https://jobs-api-shehanmaxwell.onrender.com
+
+Docs :
+https://jobs-api-shehanmaxwell.onrender.com/api-docs/
 
 
 #### Setup
